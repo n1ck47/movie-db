@@ -1,0 +1,17 @@
+.discover-list{
+    display: flex;
+    overflow-x: auto;
+}
+
+.discover-list::-webkit-scrollbar{
+    width: 0;
+}
+
+.treding-list{
+    display: flex;
+    overflow-x: auto;
+}
+
+.treding-list::-webkit-scrollbar{
+    width: 0;
+}

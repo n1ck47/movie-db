@@ -1,0 +1,11 @@
+.home-card img{
+    height: 225px;
+    width: 150px;
+    border: none;
+    border-radius: 4%;
+}
+
+.home-card{
+    margin-left: 20px;
+    margin-top: 20px;
+}
